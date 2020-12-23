@@ -1,0 +1,16 @@
+{
+    "name": "nouryvr/flarum-discord-sync",
+    "type": "library",
+    "description": "Sync roles between Flarum and Discord.",
+    "keywords": ["flarum","flarum-discord","flarum-sync","discord-sync", "flarum-forum"],
+    "homepage": "https://yourcompany.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Noury van Rooijen",
+            "email": "info@noury.eu",
+            "homepage": "https://noury.eu",
+            "role": "Maintainer"
+        }
+    ],
+}
